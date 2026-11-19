@@ -1,0 +1,3 @@
+@import "tailwindcss";
+@theme { --font-sans: "Inter", system-ui, sans-serif; --color-ink: #1b2559; --color-page: #eef1fb; }
+body { background: var(--color-page); color: var(--color-ink); }

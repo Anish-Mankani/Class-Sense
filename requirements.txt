@@ -1,0 +1,12 @@
+numpy
+pandas
+opencv-python
+mediapipe
+ultralytics
+fastapi
+uvicorn
+sqlalchemy
+streamlit
+httpx
+
+websockets
